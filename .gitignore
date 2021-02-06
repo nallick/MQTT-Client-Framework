@@ -16,3 +16,5 @@ DerivedData
 .idea/
 *.hmap
 *.xccheckout
+.swiftpm/xcode/package.xcworkspace/xcuserdata/*
+.swiftpm/xcode/xcuserdata/*
